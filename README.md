@@ -32,6 +32,6 @@ To run this application, ensure that you have Java installed on your system. Add
 
 ## Screenshots
 
-![Screenshot of Question 1.1 and 1.2](Output Images/Screenshot 2024-04-27 110733.png)
-![Screenshot of Question 1.3 and 2](Output Images/Screenshot 2024-04-27 110802.png)
-![Screenshot of SQL data](Output Images/Screenshot 2024-04-27 110823.png)
+![Screenshot of Question 1.1 and 1.2](OutputImages/Screenshot2024-04-27110733.png)
+![Screenshot of Question 1.3 and 2](OutputImages/Screenshot2024-04-27110802.png)
+![Screenshot of SQL data](OutputImages/Screenshot2024-04-27110823.png)
