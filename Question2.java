@@ -21,7 +21,7 @@ public class Question2 {
  private String firstName, lastName, campus;
  private static final String URL = "jdbc:mysql://localhost:3307/lecturer";
  private static final String USERNAME = "root";
- private static final String PASSWORD = "Jobaria@4";
+ private static final String PASSWORD = " ";
  private Connection connection;
  private PreparedStatement insertLectureDetails;
  private PreparedStatement selectLectureDetails;
