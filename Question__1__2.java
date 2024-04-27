@@ -28,8 +28,6 @@ public class Question__1__2 {
  question1.createTextFile(object.firstNames, object.lastNames);
  System.out.printf("%-15s%n","1.1 Lecturer Names");
  question1.readTextFile();
-Assignment Answer Sheet | V1.0 Page 4 of 19
- 
  System.out.printf("%-15s%n","1.2 Link Lecturer Names");
  question1.linkName(object.firstNames,object.lastNames);
  question1.displayInformation(question1.getHashMap());
