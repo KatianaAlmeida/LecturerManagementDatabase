@@ -2,7 +2,7 @@
 Project Name: LecturerManagementDatabase
 Created on: 26 May 2023
 Created By: Katiana Mendes Brito de Almeida.
-Purpose: This script is used to input the String of arrays into the programs 
+Purpose: This script is used to input the String of arrays into the programs
 question1 and question2
 Class Name: Question__1__2
 */
