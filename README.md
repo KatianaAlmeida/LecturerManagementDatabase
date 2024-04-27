@@ -29,3 +29,9 @@ To run this application, ensure that you have Java installed on your system. Add
 1. Compile the Java files using a Java compiler.
 2. Run the Question__1__2 class to execute the application.
 3. Follow the prompts and instructions to perform operations on lecturer names and details.
+
+## Screenshots
+
+![Screenshot of Question 1.1 and 1.2](Output Images/Screenshot 2024-04-27 110733.png)
+![Screenshot of Question 1.3 and 2](Output Images/Screenshot 2024-04-27 110802.png)
+![Screenshot of SQL data](Output Images/Screenshot 2024-04-27 110823.png)
