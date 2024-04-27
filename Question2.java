@@ -1,5 +1,5 @@
 /*
-Project Name: Question__1__2
+Project Name: LecturerManagementDatabase
 Created on: 30 May 2023
 Created By: Katiana Mendes Brito de Almeida.
 Purpose: Here we are adding the lectures into and selecting from the database
